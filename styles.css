@@ -1,0 +1,75 @@
+body{
+	max-width: 900px;
+	margin: 0 auto;
+	width: 100%;
+	background-color: #799191;
+}
+
+h1, h2{
+	color:#E7FFFF  ;
+	text-align: center;
+}
+
+.header img{
+ max-width: 100%;
+height: auto;
+ width: 100%;
+}
+
+.header{
+height: 350px;
+overflow: hidden;
+}
+
+.formsection{
+	display: inline-block;
+	
+	border-style: solid ;
+	min-height: 100px;
+	float: left;
+	margin: 0 30px;
+}
+
+.existingres{
+	display: inline-block;
+	border-style: solid;
+	min-height: 100px;
+	margin: 0 30px;
+
+
+}
+
+#reservations{
+	display: block;
+	background-color: grey;
+	min-height: 20em;
+}
+
+#reservations h1{
+	text-align: center;
+}
+
+#jerry{
+	float: left;
+	margin: 0 5rem 0 0;
+	width: 100%;
+	max-width: 70vh;
+}
+
+div{
+	clear: both;
+}
+
+table {
+    border-collapse: collapse;
+     border: 1px solid black;
+     width: 100%;
+  
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+#map{
+	height: 50vh;
+}
